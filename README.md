@@ -1,12 +1,9 @@
 # Ng5QuickStart
 
+
+### Angular 5.0 Quick Start CLI Application with basic setups.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
-
-
-
-### Angular 4.x Quick Start CL Application with basic setups
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
  # Key Features and Technologies
 
